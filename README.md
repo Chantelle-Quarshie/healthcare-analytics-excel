@@ -40,6 +40,14 @@ How well do services match patient demand? Specifically: how long are patients s
 ## Skills demonstrated
 
 Data preparation and cleaning in Power Query · data modelling and one-to-many relationships in Power Pivot · working with multiple related datasets · date and text functions · KPI and PivotTable design · slicers and timelines · dashboard design and turning business questions into structured analysis.
+## Files in this repository
+
+| File | What it is |
+| --- | --- |
+| `healthcare-analysis-power-query.xlsx` | The working file: Power Query steps, data model, PivotTables and dashboard |
+| `nhs-healthcare-analytics-report.pptx` | The stakeholder report |
+| `project-workflow.docx` | The full project workflow write-up |
+
 
 ---
 
